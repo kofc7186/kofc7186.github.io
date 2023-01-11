@@ -25,7 +25,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: kofc7186/creative-theme-jekyll
+remote_theme: kofc7186/bulma-clean-theme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
