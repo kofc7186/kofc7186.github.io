@@ -1,36 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lang: en
 title: KOFC7186
-email:
+tagline: Catholic Values put to Work
+email: feedback@kofc7186.org
 description: >- # this means to ignore newlines until "baseurl:"
   Knights of Columbus, Council 7186, est 2005
   St Mary Magdalene, Apex, NC
+baseurl: "/"
+url: "https://kofc7186.github.io"
 twitter_username: username
 github_username: kofc7186
 minimal_mistakes_skin: default
 search: true
+permalink: pretty
+favicon: assets/images/favicon-KOFC7186.ico
+#gh_sponsor: chrisrhymes
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+#direction: one of <ltr, rtl, auto>, default: ltr
 
 # Build settings
 markdown: kramdown
 remote_theme: kofc7186/bulma-clean-theme
 # Outputting
-permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: "/blog/page:num"
 
 include:
   - _pages
@@ -55,6 +54,19 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 author:
   name   : "Council 7186 Apex NC"
@@ -88,23 +100,21 @@ footer:
 
 defaults:
   # _posts
-  - scope:
+  -
+    scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
+      author: "C.S. Rhymes"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
 
 category_archive:
   type: liquid
@@ -112,3 +122,23 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+# Site Settings
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+highlighter: rouge
+
+footer_menu: example_footer_menu
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
