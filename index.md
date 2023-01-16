@@ -4,6 +4,7 @@ subtitle: St Mary Magdalene of Apex Council 7186
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_image: /assets/images/cross_landscape.jpg
 ---
 
 # Who are the Knights of Columbus and why should I join?
