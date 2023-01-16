@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en
 title: KOFC7186
-tagline: Catholic Values put to Work
+tagline: Catholic Values Practiced
 email: feedback@kofc7186.org
 description: >- # this means to ignore newlines until "baseurl:"
   Knights of Columbus, Council 7186, est 2005
@@ -20,7 +20,7 @@ permalink: pretty
 favicon: assets/images/favicon-KOFC7186.ico
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
+theme_color: '#ff8c66'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
