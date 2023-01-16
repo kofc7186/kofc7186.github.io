@@ -102,14 +102,14 @@ defaults:
   # _posts
   -
     scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       show_sidebar: true
   -
     scope:
       path: ""
-      type: "posts"
+      type: "_posts"
     values:
       author: "C.S. Rhymes"
       layout: post
