@@ -7,7 +7,7 @@ show_sidebar: true
 hero_image: /assets/images/cross_landscape.jpg
 ---
 
-![KofC Council 7186](/assets/kofc_service.png)
+![KofC Council 7186](/assets/images/kofc_service.png)
 
 
 # Who are the Knights of Columbus and why should I join?
