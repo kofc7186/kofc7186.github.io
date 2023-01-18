@@ -1,10 +1,11 @@
 ---
 permalink: /memberdues/
-title: "Member Dues"
+title: "Membership Dues"
 subtitle: KofC Council 7186 Apex NC annual membership dues
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_image: /assets/images/cross_landscape.jpg
 ---
 
 # Annual membership dues for KofC Council 7186
