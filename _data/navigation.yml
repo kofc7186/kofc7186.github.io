@@ -1,6 +1,7 @@
-  - name: "Posts"
-    link: /posts/
+
   - name: "About"
     link: /about/
   - name: "Programs"
     link: /programs/
+  - name: "Events"
+    link: /events/
