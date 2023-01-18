@@ -7,6 +7,9 @@ show_sidebar: true
 hero_image: /assets/images/cross_landscape.jpg
 ---
 
+![KofC Council 7186](/assets/kofc_service.png)
+
+
 # Who are the Knights of Columbus and why should I join?
 From the moment of our founding in 1882, charity has been the first principle of the Knights of Columbus. We are Catholic men of faith and men of charitable action.  
 
