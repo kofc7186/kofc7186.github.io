@@ -1,10 +1,12 @@
 ---
 ---
 
+
+// Import Main CSS file from theme
+@import "main";
+
+
 .hero.is-primary .title {
     color: #ff3030;
 }
 
-
-// Import Main CSS file from theme
-@import "main";
