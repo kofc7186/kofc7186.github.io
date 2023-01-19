@@ -5,7 +5,7 @@ subtitle: St Mary Magdalene of Apex Council 7186
 layout: page
 callouts: home_callouts
 show_sidebar: true
-hide_hero: true
+hero_height: is-small
 ---
 # Business Meetings
 
