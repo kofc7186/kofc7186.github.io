@@ -36,10 +36,7 @@ This embedded form will use PayPal to submit a one time pament for the Council 7
 
 #### The membership fees includes Pay Pal charges of $1.50.
 
-</br>
 Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
 
-
-</br>
 
 [pennyday]: https://kofcnc.org/catholic-charity-fund/
