@@ -107,6 +107,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
+      hero_image: /assets/images/cross_landscape.jpg
   -
     scope:
       path: ""
