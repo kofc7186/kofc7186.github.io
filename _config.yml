@@ -107,7 +107,6 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_height: is-small
   -
     scope:
       path: ""
@@ -116,6 +115,7 @@ defaults:
       author: "C.S. Rhymes"
       layout: post
       image: https://via.placeholder.com/1200x800
+      hero_image: /assets/images/favicon-KOFC7186.ico
       show_sidebar: true
 
 category_archive:
