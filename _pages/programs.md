@@ -30,6 +30,10 @@ The Knights of Columbus vigorously defends the dignity of each human being at ev
 
 ## [Op LAMB][oplamb]
 
+Our Council 7186 supports the North Carolina Op LAMB foundation, supporting many local charities for the intellectually disabled.
+
+
+
 [faith]: https://kofc7186.github.io/faith
 
 [family]: https://kofc7186.github.io/family
