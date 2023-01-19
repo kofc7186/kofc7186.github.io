@@ -28,6 +28,7 @@ Knights are called to serve others. Our first principle is Charity – at home w
 ## [Life][life]
 The Knights of Columbus vigorously defends the dignity of each human being at every stage of life.
 
+## [Op LAMB][oplamb]
 
 [faith]: https://kofc7186.github.io/faith
 
@@ -36,3 +37,6 @@ The Knights of Columbus vigorously defends the dignity of each human being at ev
 [community]: https://kofc7186.github.io/community
 
 [life]: https://kofc7186.github.io/life
+
+[oplamb]: https://kofc7186.github.io/oplamb
+
