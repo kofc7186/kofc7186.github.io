@@ -6,6 +6,7 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 hero_image: /assets/images/cross_landscape.jpg
+hero_height: is-medium
 ---
 
 # Events Calendar for KofC Council 7186 - Apex NC
