@@ -16,5 +16,17 @@ __Yearly Membership Dues__
 
 Need to pay your yearly dues, [PAY ONLINE here][paydues].
 
+
+## Council Documents and Links
+
+[Council Bylaws][bylaws]
+
  
 [paydues]:/memberdues
+
+[bylaws]:https://drive.google.com/open?id=0B4X4GXpo7YBPTG0ydUMxV08zeXM
+
+[fishfy]:http://lentfishfry.weebly.com/
+
+[monthlyminutes]:https://drive.google.com/folderview?id=0B80nI0hO0zjrfjlzNWEzcDdSVnFWa0hRWmRjLVpNeHRmUUczMWtYM2xsaVN1c1Bsdmpmdms&usp=drive_web
+
