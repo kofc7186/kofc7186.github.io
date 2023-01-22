@@ -1,0 +1,32 @@
+---
+title: "Post: 2023 Lent Fish Fry"
+last_modified_at: 2023-01-21T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+# Lent Fish Fry
+
+2023 Lent Fish Fry at the St Mary Magdalene church in Apex, NC
+
+### In person, eat in, and carry out
+
+Dates for 2023 Lent - Fridays starting at 5pm until 7pm
+
+* Feb 24, 2023 at 5:00PM
+
+* Mar 10, 2023 at 5:00PM
+
+* Mar 24, 2023 at 5:00PM
+
+Friday March 23rd - 5:30 to 7:45pm
+
+Orders are now open!
+
+Pre-orders strongly encourages! Save time and easier to enter your order.
+
+***The online order site will be live beginning Feb 13, 2023***
