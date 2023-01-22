@@ -7,5 +7,5 @@
     link: /events/
   - name: "Members"
     link: /members/
- # - name: "Blog"
- #   link: /blog/
+  - name: "Blog"
+    link: /blog/
