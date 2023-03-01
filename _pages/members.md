@@ -21,10 +21,16 @@ Need to pay your yearly dues, [PAY ONLINE here][paydues].
 
 [Council Bylaws][bylaws]
 
+
+[Council Monthly Meeting Minutes][meetingminutes]
+
+
  
 [paydues]:/memberdues
 
 [bylaws]:https://drive.google.com/open?id=0B4X4GXpo7YBPTG0ydUMxV08zeXM
+
+[meetingminutes]:https://drive.google.com/drive/folders/0B80nI0hO0zjrfjlzNWEzcDdSVnFWa0hRWmRjLVpNeHRmUUczMWtYM2xsaVN1c1Bsdmpmdms?resourcekey=0-UOw6imLWZ3swR3Zwu-wjLQ&usp=share_link
 
 [fishfy]:http://lentfishfry.weebly.com/
 
