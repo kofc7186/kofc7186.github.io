@@ -1,0 +1,15 @@
+---
+---
+
+
+// Import Main CSS file from theme
+@import "main";
+
+
+.hero.is-primary .title {
+    color: #ff3030;
+}
+
+.hero.is-primary .subtitle {
+    color: rgba(70,30,30,0.9);
+}
