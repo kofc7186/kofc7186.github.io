@@ -13,17 +13,17 @@ __Held 1st Thursday of each month at 7:30 pm at St. Mary Magdalene Catholic Chur
 Council Officers for 2022-23 Fraternal Year
 
 * Pastor - Fr. Chris Koehn
-* Grand Knight- Vic Agusta
-* Deputy GK - Yoogin Lean
-* Chancellor - Vacant
-* Recorder - Stephen McGregor
-* Financial Secretary - David Tate
+* Grand Knight - Yoogin Lean
+* Deputy GK - Manuel (Manny) Garcia
+* Chancellor - Scott Nadeau
+* Recorder - Stone Hazlett
+* Financial Secretary - Sal Marchese
 * Treasurer - Bob Callaway
-* Advocate - Dick Leinbach
+* Advocate - Scott Strednakk
 * Lecturer - Joe Sebik
 * Warden - Jeff Mimnaugh
 * Inside Guard - Danny Lynch
-* Outside Guard - Manny Garcia
-* Trustee (1 Year) - Dan Cantrell
-* Trustee (2 Year) - Jason Horner
-* Trustee (3 Year) - Art Klaum
+* Outside Guard - John Egentowich
+* Trustee (1 Year) - Jason Horner
+* Trustee (2 Year) - Art Klaum
+* Trustee (3 Year) - Victor (Vic) Agusta
