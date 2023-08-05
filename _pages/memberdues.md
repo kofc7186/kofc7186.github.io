@@ -11,7 +11,7 @@ hero_image: /assets/images/cross_landscape.jpg
 # Annual membership dues for KofC Council 7186
 
 
-__Please Note: If you have a amount on your bill that is different than below please email me at fskofc7186@gmail.com and I will send you a separate invoice that will allow you to pay the full amount.__
+__Please Note: If you have a amount on your bill that is different than below please email me at fs@kofc7186.org and I will send you a separate invoice that will allow you to pay the full amount.__
 
 This embedded form will use PayPal to submit a one time pament for the Council 7186 of Apex NC annual membership dues.
 
