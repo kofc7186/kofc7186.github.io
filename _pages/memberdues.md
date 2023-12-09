@@ -33,10 +33,43 @@ This embedded form will use PayPal to submit a one time pament for the Council 7
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
 
 #### The membership fees includes Pay Pal charges of $1.50.
 
-Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
+## How to pay your member dues online using Zelle
+
+Step 1) Go to Zelle: https://zellepay.com/
+
+Step 2) See if your Bank offers Zelle by searching Zelle’s list of supported banks
+
+Step 3) If it does NOT, you will NOT be able to send money using Zelle. Either pay by check or PayPal 
+
+Step 4) If it does, sign on to your Bank
+
+Step 5) Under transfer money, pick send money thru Zelle
+
+### Add Contact/Recipient 
+
+Step 1) For First Name enter “KofC Council 7186”
+
+Step 2) Leave Last Name blank
+
+Step 3) For Send by, choose email address and enter tr@kofc7186.org  __email address must be correct if not money will NOT transfer__
+
+Step 4) Click Save; you should see "KofC Council 7186" in your contact list
+
+### To send money
+
+Step 1) Pick account you would like the funds to come from
+
+Step 2) Enter $ amount, there are no fees so enter amounts that are in your notice
+
+Step 3) For Memo enter 2024 member dues
+
+Step 4) Click Send
+
+
 
 
 [pennyday]: https://kofcnc.org/catholic-charity-fund/
