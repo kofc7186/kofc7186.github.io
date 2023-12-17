@@ -41,7 +41,7 @@ This embedded form will use PayPal to submit a one time pament for the Council 7
 
 Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
 
-#### The membership fees includes Pay Pal charges of $1.50.
+#### When paying through PayPal, the amounts include the transaction fees charged by PayPal.
 
 ## How to pay your member dues online using Zelle
 
