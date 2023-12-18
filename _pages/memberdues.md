@@ -27,9 +27,6 @@ This embedded form will use PayPal to submit a one time pament for the Council 7
           <option value="Dues Only ($28 + PayPal Fee)">
             Dues Only ($28 + PayPal Fee) $29.07 USD
           </option>
-          <option value="New member dues + initiation fee ($31.65 + $15 + PayPal Fee)">
-            New member dues + initiation fee ($31.65 + $15 + PayPal Fee) $48.10 USD
-          </option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Member Name">Member Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 <tr><td><input type="hidden" name="on2" value="Email">Email</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
