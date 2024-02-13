@@ -32,7 +32,7 @@ Need to pay your yearly dues, [PAY ONLINE here][paydues].
 
 [meetingminutes]:https://drive.google.com/drive/folders/0B80nI0hO0zjrfjlzNWEzcDdSVnFWa0hRWmRjLVpNeHRmUUczMWtYM2xsaVN1c1Bsdmpmdms?resourcekey=0-UOw6imLWZ3swR3Zwu-wjLQ&usp=share_link
 
-[fishfy]:http://lentfishfry.weebly.com/
+[fishfry]:https://lentfishfry.com/
 
 [monthlyminutes]:https://drive.google.com/folderview?id=0B80nI0hO0zjrfjlzNWEzcDdSVnFWa0hRWmRjLVpNeHRmUUczMWtYM2xsaVN1c1Bsdmpmdms&usp=drive_web
 
