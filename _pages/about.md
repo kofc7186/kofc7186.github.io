@@ -10,20 +10,20 @@ show_sidebar: true
 
 __Held 1st Thursday of each month at 7:30 pm at St. Mary Magdalene Catholic Church in the Church Meeting Room #4 which is in the new Church Building. All members are invited to attend.__
 
-Council Officers for 2022-23 Fraternal Year
+Council Officers for 2024-25 Fraternal Year
 
-* Pastor - Fr. Chris Koehn
-* Grand Knight - Yoogin Lean
-* Deputy GK - Manuel (Manny) Garcia
-* Chancellor - Scott Nadeau
-* Recorder - Stone Hazlett
+* Chaplain - Fr. Chris Koehn
+* Grand Knight - Manuel (Manny) Garcia
+* Deputy GK - Scott Nadeau
+* Chancellor - John Egentowich
+* Recorder - Joe Doran
 * Financial Secretary - Sal Marchese
-* Treasurer - Bob Callaway
-* Advocate - Scott Strednakk
+* Treasurer - Dan Cantrell
+* Advocate - Chris Hanes
 * Lecturer - Joe Sebik
-* Warden - Jeff Mimnaugh
+* Warden - Steve Taepke
 * Inside Guard - Danny Lynch
-* Outside Guard - John Egentowich
-* Trustee (1 Year) - Jason Horner
-* Trustee (2 Year) - Art Klaum
-* Trustee (3 Year) - Victor (Vic) Agusta
+* Outside Guard - Brian Meljac
+* Trustee (1 Year) - Art Klaum
+* Trustee (2 Year) - Victor (Vic) Agusta
+* Trustee (3 Year) - Yoogin Lean
