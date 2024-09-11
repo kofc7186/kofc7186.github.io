@@ -62,10 +62,10 @@ Membership in the Knights of Columbus is open to any practical Catholic man in u
 
 There are two simple ways to apply for membership:
 
-The first and more typical is by filling out the Form 100 (click here to download) and then contacting either the Grand Knight or Membership Director for our council. Acceptance of the application depends on a standard admissions process and a vote of the members of the council. Following a favorable vote the applicant becomes a member by initiation in what is called the First Degree. Subsequently he advances through the Second and Third degrees.
+Join free for the first year by completing the online form [here](https://www.kofc.org/secure/en/join/join-kofc.html). You will be asked “Preferred Local Council” and our council number is 7186.
 
 After completing the First Degree, you may then attend any of our council’s meetings including our monthly business meeting, which typically occurs the first Thursday of every month at 730pm at St Mary Magdalene Church.
 
-If you are interested in becoming a Knight of Columbus at the St Mary Magdalene Council or simply want to find out more about the council then please contact our Membership Directors by email at membershipkofc7186@gmail.com or our Grand Knight at gk@kofc7186.org .
+If you are interested in becoming a Knight of Columbus at the St Mary Magdalene Council or simply want to find out more about the council then please contact our Membership Directors by email at membershipkofc7186@gmail.com or our Grand Knight at gk@kofc7186.org.
 
 The second method for joining, which is new as of January 29th, 2017, allows you to join the Knights of Columbus online however you will not immediately be associated with a specific council.  Instead you will be referred to the membership director at the council nearest you.  For more information about joining online click here to learn more.
