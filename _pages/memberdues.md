@@ -68,7 +68,7 @@ Step 1) Pick account you would like the funds to come from
 
 Step 2) Enter $ amount, there are no fees so enter amounts that are in your notice
 
-Step 3) For Memo enter 2024 member dues
+Step 3) For Memo enter 2025 member dues
 
 Step 4) Click Send
 
