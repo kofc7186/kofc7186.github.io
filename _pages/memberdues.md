@@ -10,11 +10,10 @@ hero_image: /assets/images/cross_landscape.jpg
 
 # Annual membership dues for KofC Council 7186
 
+Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
 
-__Please Note: If you have a amount on your bill that is different than below please email me at fs@kofc7186.org and I will send you a separate invoice that will allow you to pay the full amount.__
-
-This embedded form will use PayPal to submit a one time pament for the Council 7186 of Apex NC annual membership dues.
-
+## Standard Amounts
+This embedded form will use PayPal to submit a one time payment for the Council 7186 of Apex NC annual membership dues.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -36,9 +35,17 @@ This embedded form will use PayPal to submit a one time pament for the Council 7
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Click here to read about the Knights of Columbus charity [Penny A Day][pennyday]
+## Custom Amounts
+If you'd like to pay a different amount than the predefined options above, please follow [this link](https://www.paypal.com/ncp/payment/V6ZXN4Y2C6PXG) to pay the council via PayPal.
 
-#### When paying through PayPal, the amounts include the transaction fees charged by PayPal.
+### Transaction Fees
+To use PayPal, the council pays fees in order to process the credit card transactions. We kindly request you increase your payment to cover these fees so that
+the council does not use its operating funds to cover this fee. To calculate the total amount to pay, please use the following formula, where `D` is the amount you'd like the council
+to receive *after* paying the PayPal fees (0.50 + 2.03%):
+
+$$ \texttt{pay} = 1.0203 x D + 0.50$$
+
+__Please Note: Alternatively, please email me at fs@kofc7186.org and I will send you a separate invoice that will allow you to pay the full amount.__
 
 ## How to pay your member dues online using Zelle
 
