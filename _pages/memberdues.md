@@ -43,8 +43,7 @@ To use PayPal, the council pays fees in order to process the credit card transac
 the council does not use its operating funds to cover this fee. To calculate the total amount to pay, please use the following formula, where `D` is the amount you'd like the council
 to receive *after* paying the PayPal fees (0.50 + 2.03%):
 
-$$\texttt{pay} = 1.0203 \times D + 0.50$$
-
+pay = 1.0203 x D + 0.50
 
 ## How to pay your member dues online using Zelle
 
